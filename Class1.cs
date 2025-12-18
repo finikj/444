@@ -30,5 +30,6 @@ void main()
 	printf("\n");
 	printf("Хисматуллина\n");
 	
+	p
 }
 
